@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.square {
+    width: 200px;
+    height: 200px;
+    background-color: #ccc;
+    text-align: center;
+    line-height: 200px;
+    cursor: pointer;
+
+}
